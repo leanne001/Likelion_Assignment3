@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=C:\Users\samsung\Desktop\MTV3-master\myvenv"
+set "VIRTUAL_ENV=C:\2019-1\멋쟁이 사자처럼\Visual Code 파일\MTV3-master\myvenv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
